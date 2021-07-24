@@ -1,0 +1,45 @@
+.outter-container {
+    width: 800px;
+    font-size:0;
+    margin: 0 auto;
+    top: 50%;
+    height: 500px;
+    margin-top: 90px;
+}
+
+.upper {
+    width: 50%;
+    height: 200px;
+}
+
+.downer {
+    width: 33.33%;
+    height: 300px;
+}
+
+.all {
+    border: 1px solid black;
+    display: inline-block;
+}
+
+.green-box {
+    background: rgb(0, 88, 0);
+    font-size:0;
+}
+
+.blue-box {
+    background: blue;
+    font-size:0;
+}
+
+.grey-box {
+    background: grey;
+}
+
+.black-box {
+    background: black;
+}
+
+.yellow-box {
+    background: yellow;
+}
